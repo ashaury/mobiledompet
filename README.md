@@ -1,5 +1,5 @@
 # tubes_kelompok3
-Tugas Proyek Kelompok 3 Android Studio Informatika Unjani
+Tugas Proyek Kelompok 3 Mobile Programming Informatika Unjani
 
 List Anggota Kelompok 3 :
 - Putranto Widitama ( 3411181070 )
